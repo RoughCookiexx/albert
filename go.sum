@@ -1,0 +1,8 @@
+github.com/RoughCookiexx/gg_sse v0.0.0-20250603190242-a2b51f479f1e h1:E3DdkqkAckhCxrg07ncfH96xRAzB12YypEjQvTZaTls=
+github.com/RoughCookiexx/gg_sse v0.0.0-20250603190242-a2b51f479f1e/go.mod h1:9R5bjI4fTuUCvYFinQY6pdERDlxqqhmWPEhx7cFcsuY=
+github.com/RoughCookiexx/gg_twitch_types v0.0.0-20250609233857-77c5dab647a6 h1:IRs0z4DYWEhJxrcmRxx4ofGZygXwyIw+4U1NKUXYfjM=
+github.com/RoughCookiexx/gg_twitch_types v0.0.0-20250609233857-77c5dab647a6/go.mod h1:X7uUa+AWDV5CaOZYWiD3A2Gp0kEemFmwIu2ma/AMKJI=
+github.com/RoughCookiexx/twitch_chat_subscriber v0.0.0-20250602145131-e8a1cab7feb4 h1:t6XkxkL6zSVn1XCzrv1iWgAuxpnUFoS69AsQ1yJ/ook=
+github.com/RoughCookiexx/twitch_chat_subscriber v0.0.0-20250602145131-e8a1cab7feb4/go.mod h1:VOsTwnf2ntUngOtlTRsrtraPmLHkD652w6MoYqbZtBw=
+github.com/RoughCookiexx/twitch_chat_subscriber v0.0.0-20250610010439-43558e359a97 h1:7oA6pE9J9UgpcBx4RHKKfYHlh7lEzVmN1wx3r/5cIfU=
+github.com/RoughCookiexx/twitch_chat_subscriber v0.0.0-20250610010439-43558e359a97/go.mod h1:u/jnpDQmdOxBhUVJV76Qj4ygHDXLgpycIGffCkUO3Xg=
