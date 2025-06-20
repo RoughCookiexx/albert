@@ -322,7 +322,10 @@ func main() {
 	// Replace "http://localhost:8081/health" with the actual health check URL for your apps.
 	appConfigs := []AppConfig{
 		{Name: "Cacaphony", Path: "/home/tommy/cacaphony/cacaphony", Args: []string{"--port", "6972"}, HealthURL: "http://127.0.0.1:6972/health"},
+		{Name: "Heckler", Path: "/home/tommy/heckler/heckler", Args: []string{"--port", "6971"}, HealthURL: "http://127.0.0.1:6971/health"},
 		{Name: "K Facts", Path: "/home/tommy/k_facts/k_facts", Args: []string{"--port", "6974"}, HealthURL: "http://127.0.0.1:6974/ping"},
+		{Name: "Noise Machine", Path: "/home/tommy/noise_machine/noise_machine", Args: []string{"--port", "6976"}, HealthURL: "http://127.0.0.1:6976/health"},
+		{Name: "Trombone", Path: "/home/tommy/trombone/trombone", Args: []string{"--port", "6973"}, HealthURL: "http://127.0.0.1:6973/health"},
 	}
 
 	mgr := NewManager(appConfigs)
